@@ -1,0 +1,67 @@
+body {
+	background-color: powderblue;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial;
+	font-size: 75px;
+	color: red;
+}
+
+h2 {
+	text-align: top-right;
+	font-family: monospace;
+	font-size: 35px;
+	margin: 0px 0px 0px 200px;
+}
+
+table, th, td {
+	border: 2px solid red;
+}
+
+th, td {
+	padding: 40px;
+	text-align: center;
+	font-size: 50px;
+}
+
+th {
+	color: darkblue;
+}
+
+.Mr0Faziroslika1 {
+	padding: 0px 0px 0px 700px;
+}
+
+.Button1 {
+	padding: 0px 0px 0px 190px;
+}
+
+.NV {
+	font-size: 70px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+	background-color: #4f6993;
+	width: 177px;
+}
+
+li a {
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding: 9px 18px;
+}
+
+li a.active {
+	background-color: #62e06d;
+	color: black;
+}
+
+li a:hover:not(.active) {
+	background-color: #0f0f47;
+	color: white;
+}
